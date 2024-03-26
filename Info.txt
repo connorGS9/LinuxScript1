@@ -1,0 +1,2 @@
+The script file will let you see how your computer is performing under load, and important information regarding your machine.
+
